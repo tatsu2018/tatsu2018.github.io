@@ -21,6 +21,11 @@ body{
 	color: #000;
 	background: #fff;
 }
+.inner {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+                  }
 
 a{
 	color: #0066ff;
